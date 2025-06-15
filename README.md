@@ -68,4 +68,5 @@ This Laravel 12 project allows users to create and manage courses with modules i
 * 🔗 GitHub: [github.com/FerdausAhmedNasim](https://github.com/FerdausAhmedNasim/Laravel-Job-Interview-Task-Assessment)
 
 
-   
+![alt text](image-2.png)
+![alt text](image-3.png)
