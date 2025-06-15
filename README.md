@@ -1,3 +1,4 @@
+![Course List](./public/1.png)
 # 🎓 Laravel Course Management System
 
 This Laravel 12 project allows users to create and manage courses with modules including video, content, and summary information.
@@ -23,19 +24,19 @@ This Laravel 12 project allows users to create and manage courses with modules i
    ```bash
    git clone https://github.com/FerdausAhmedNasim/Laravel-Job-Interview-Task-Assessment
    cd Laravel-Job-Interview-Task-Assessment
-````
+
 
 2. Install dependencies:
 
    ```bash
    composer install
-   ```
+   
 
 3. Create `.env` file:
 
    ```bash
    cp .env.example .env
-   ```
+   
 
 4. Set your database credentials in `.env`.
 
@@ -43,7 +44,7 @@ This Laravel 12 project allows users to create and manage courses with modules i
 
    ```bash
    php artisan key:generate
-   ```
+   
 
 6. Run migrations:
 
@@ -68,5 +69,12 @@ This Laravel 12 project allows users to create and manage courses with modules i
 * 🔗 GitHub: [github.com/FerdausAhmedNasim](https://github.com/FerdausAhmedNasim/Laravel-Job-Interview-Task-Assessment)
 
 
-![alt text](image-2.png)
-![alt text](image-3.png)
+## 📸 Screenshots
+
+### Course List Page
+
+![Course List](./public/1.png)
+
+### Add Course Module Page
+
+![Add Course Module](public/2.png)
